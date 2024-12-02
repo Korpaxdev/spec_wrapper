@@ -1,0 +1,1 @@
+spectree-pydantic-v2 @ git+https://github.com/RLT-LLC/spectree-pydantic-v2.git@23f790e20c1599aec93c226ff67b44d3baadc205
